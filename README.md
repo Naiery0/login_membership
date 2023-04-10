@@ -1,6 +1,4 @@
 # login_membership
-# use chat gpt
-
 php를 이용한 로그인 시스템입니다
 login.php는 로그인 페이지,
 forgot-password.php는 비밀번호 찾기 페이지,
